@@ -1,0 +1,15 @@
+# Build folders
+build/
+cmake-build-*/
+
+# Compiled Files
+*.o
+*.out
+*.exe
+
+# OS Stuff
+.DS_Store
+Thumbs.db
+
+# Editor Stuff
+.vscode/
